@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/zfm/7月9号/kotlin-koans-master/test/ii_collections/N22FoldKtTest.kt" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/zfm/7月9号/kotlin-koans-master/test/ii_collections" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web2">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/zfm/7月9号/kotlin-koans-master/test/i_introduction/_3_Default_Arguments" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/zfm/7月9号/kotlin-koans-master/test/i_introduction" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web3">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/wtm/2019年8月16日/HelloWorld1/out/artifacts/HelloWorld1_war_exploded/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/wtm/2019年8月16日/HelloWorld1/out/artifacts/HelloWorld1_war_exploded" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web4">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/wtm/2019年8月16日/HelloWorld1/web/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/wtm/2019年8月16日/HelloWorld1/web" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+  </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$" />
